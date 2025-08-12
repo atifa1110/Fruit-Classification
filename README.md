@@ -54,7 +54,8 @@ Namun pada proyek ini, hanya folder **fruits-360_100x100** yang digunakan.Pada d
  ## Conclusion
 - Berdasarkan percobaan, dihasilkan untuk:
     - Model              : Sequential
-    - Akurasi            : 95 %
+    - Train Akurasi      : 96%
+    - Test Akurasi       : 98%
 - Hasil model mampu memprediksi gambar buah (fruits) yang diinputkan melalui inference.
 
 ## Saran
